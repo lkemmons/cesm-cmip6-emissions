@@ -83,5 +83,5 @@ Emissions are zero before 1920; files include monthly values (0) for 1750, 1850,
 
 ## MAM4 emissions
 
-make_emis_cmip6_mam4num.pro
+make_emis_cmip6_mam4num.pro calculates the number emissions for the MAM4 aerosols. 
 
