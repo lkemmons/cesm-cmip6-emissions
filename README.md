@@ -78,7 +78,7 @@ This uses the separate biofuel files (CO-em-SOLID-BIOFUEL-anthro_*) from CEDS. H
 
 ## Aircraft emissions
 
-make_aircraft_emis_cmip6.pro creates aircraft emissions files for NO2, bc_a4, SO2 (other species available from CEDS, but are very small).  
+make_emis_cmip6_aircraft.pro creates aircraft emissions files for NO2, bc_a4, SO2 (other species available from CEDS, but are very small).  
 Emissions are zero before 1920; files include monthly values (0) for 1750, 1850, 1919. 
 
 ## MAM4 emissions
