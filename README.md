@@ -1,11 +1,9 @@
 # cesm-cmip6-emissions
 Routines used to create the CMIP6 emissions used in CESM2 (Community Earth System Model).
 
-The forcing data sets for CMIP6 are available on the ESGF, as described here: https://pcmdi.llnl.gov/projects/input4mips/
-Historical emissions are from the Community Emissions Data System (CEDS):
-http://www.globalchange.umd.edu/ceds/
-http://www.globalchange.umd.edu/ceds/ceds-cmip6-data/ 
-CMIP6 Forcing Datasets Summary: http://goo.gl/r8up31  
+The forcing data sets for CMIP6 are available on the ESGF, as described here: https://aims2.llnl.gov/search/input4MIPs
+Historical emissions are from the Community Emissions Data System (CEDS): https://www.pnnl.gov/projects/ceds
+CEDS for CMIP6: https://www.pnnl.gov/projects/ceds/emissions-data-projects#CMIP6  
 
 ## Regrid, change units, and rename original CEDS/CMIP6 files
 
